@@ -1,0 +1,16 @@
+header{
+background-color:rgb(197, 123, 123);
+}
+h1{
+text-align: center ;
+}
+p{
+color: steelblue;}
+header nav ul li {
+list-style: none;
+}
+header nav ul{
+margin-right: 28px
+}
+
+
